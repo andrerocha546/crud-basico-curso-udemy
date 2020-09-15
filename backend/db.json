@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsumg S20",
+      "price": 5000.75
+    },
+    {
+      "id": 4,
+      "name": "Azus Zenphone",
+      "price": 4800.75
+    },
+    {
+      "id": 4,
+      "name": "Azus Zenphone",
+      "price": 4800.75
+    },
+    {
+      "name": "Andre Sebastiao Dos Santos Rocha",
+      "price": "12",
+      "id": 5
+    },
+    {
+      "name": "Andre Sebastiao Dos",
+      "price": "98014",
+      "id": 6
+    }
+  ]
+}
